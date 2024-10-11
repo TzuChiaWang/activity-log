@@ -114,6 +114,14 @@ async function fetchAndFilterEvents() {
             })
             .slice(0, eventLimit);
 
+         if(filteredEvents.length < eventLimit) {
+                const additionalEvents = await fetchAllEvents();
+                if (additionalEvents.length === 0) break;
+                allEvents = additionalEvents.concat(allEvents);
+            }else{
+                break;
+            }
+
         if (filteredEvents.length < eventLimit) {
             const additionalEvents = await fetchAllEvents();
             allEvents = additionalEvents.concat(allEvents);
