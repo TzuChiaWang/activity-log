@@ -18,106 +18,106 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. ➕ Created a new branch `main` in a private repo
-2. 🎉 Created a new private repository
+1. 📝 Committed to a private repo
+2. 📝 Committed to a private repo
 3. 📝 Committed to a private repo
 4. 📝 Committed to a private repo
 5. 📝 Committed to a private repo
-6. 🎉 Created a new private repository
-7. ➕ Created a new branch `main` in a private repo
-8. 📝 Committed to a private repo
-9. 📝 Committed to a private repo
-10. 📝 Committed to a private repo
-11. 📝 Committed to a private repo
-12. 📝 Committed to a private repo
-13. 🎉 Created a new private repository
-14. ➕ Created a new branch `main` in a private repo
-15. 📝 Committed to a private repo
-16. 📝 Committed to a private repo
-17. 📝 Committed to a private repo
-18. ➕ Created a new branch `main` in a private repo
-19. 🎉 Created a new private repository
+6. 📝 Committed to a private repo
+7. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/c4646672aa6bfd19a3c06d3a7c149984a10c6a7d)
+8. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/45b934669a2e22e20f5de6358d72e600109363c4)
+9. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/06d99a730c40de49cccaacf9e5eae58671498133)
+10. ➕ Created a new branch [`8-建立註冊介面`](https://github.com/ntust-im-iov/ChargeGamification/tree/8-建立註冊介面) in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
+11. 🆕 Opened an issue [#8](https://github.com/ntust-im-iov/ChargeGamification/issues/8) in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
+12. ➕ Created a new branch [`7-建立登入介面`](https://github.com/ntust-im-iov/ChargeGamification/tree/7-建立登入介面) in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
+13. 🗑️ Deleted a branch `APP-17--` in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
+14. 🗑️ Deleted a branch `flutter_2` in [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification)
+15. 📝 Committed to [TzuChiaWang/WebApplication-Bank](https://github.com/TzuChiaWang/WebApplication-Bank/commit/6f1e78be20a8ec29134c69bafb77d58b2aa0b344)
+16. 📝 Committed to [TzuChiaWang/WebApplication-Bank](https://github.com/TzuChiaWang/WebApplication-Bank/commit/07394ddbe53beb3649d9e6a33c524992561806ff)
+17. 📝 Committed to [TzuChiaWang/WebApplication-Bank](https://github.com/TzuChiaWang/WebApplication-Bank/commit/a7c8b504eb8b4b8e4ca82c0dcffded9a3636ffe1)
+18. 🌍 Made repository [TzuChiaWang/WebApplication-Bank](https://github.com/TzuChiaWang/WebApplication-Bank) public
+19. 📝 Committed to [TzuChiaWang/WebApplication-Bank](https://github.com/TzuChiaWang/WebApplication-Bank/commit/55e54694934c3c04d594e0f17548e10aded2d3f9)
 20. 📝 Committed to a private repo
 21. 📝 Committed to a private repo
 22. 📝 Committed to a private repo
 23. 📝 Committed to a private repo
-24. 📝 Committed to a private repo
-25. 📝 Committed to a private repo
+24. 🎉 Created a new private repository
+25. ➕ Created a new branch `main` in a private repo
 26. 📝 Committed to a private repo
 27. 📝 Committed to a private repo
 28. 📝 Committed to a private repo
 29. 📝 Committed to a private repo
 30. 📝 Committed to a private repo
-31. ➕ Created a new branch `main` in a private repo
-32. 🎉 Created a new private repository
+31. 📝 Committed to a private repo
+32. 📝 Committed to a private repo
 33. 📝 Committed to a private repo
 34. 📝 Committed to a private repo
 35. 📝 Committed to a private repo
 36. 📝 Committed to a private repo
-37. ➕ Created a new branch `main` in a private repo
-38. 🎉 Created a new private repository
-39. 🗑️ Deleted a branch `update-v2` in [TzuChiaWang/B11109009_hw2](https://github.com/TzuChiaWang/B11109009_hw2)
+37. 📝 Committed to a private repo
+38. 📝 Committed to a private repo
+39. 📝 Committed to a private repo
 40. 📝 Committed to a private repo
-41. ➕ Created a new branch [`update-v2`](https://github.com/TzuChiaWang/B11109009_hw2/tree/update-v2) in [TzuChiaWang/B11109009_hw2](https://github.com/TzuChiaWang/B11109009_hw2)
+41. 📝 Committed to a private repo
 42. 📝 Committed to a private repo
-43. 🎉 Created a new private repository
-44. ➕ Created a new branch `main` in a private repo
+43. 📝 Committed to a private repo
+44. 📝 Committed to a private repo
 45. 📝 Committed to a private repo
 46. 📝 Committed to a private repo
-47. ➕ Created a new branch `main` in a private repo
-48. 🎉 Created a new private repository
+47. 📝 Committed to a private repo
+48. 📝 Committed to a private repo
 49. 📝 Committed to a private repo
 50. 📝 Committed to a private repo
-51. 🎉 Created a new private repository
-52. ➕ Created a new branch `main` in a private repo
-53. 🗑️ Deleted a branch `CR-4--activity-log` in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-54. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/a70fbed9257aff7e7b4881ff8fb9b6a731deef7c)
-55. 🔀 Merged [PR #6](https://github.com/TzuChiaWang/devops202409/pull/6) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-56. 📥 Opened [PR #6](https://github.com/TzuChiaWang/devops202409/pull/6) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-57. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/a70fbed9257aff7e7b4881ff8fb9b6a731deef7c)
-58. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/88937900b56b75565c043402ddd6abfa1f92fc86)
-59. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/3ce0fec5bdb27869899959df7e4833fedfb6b409)
-60. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/64ccd2c0b772af51ad68729d46529d68ca69fc3f)
-61. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/78aaee30cf42746fdea1745a0278e9f5ab1c5aae)
-62. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/f54406f81db9c73f8b135bc3560117b3a4682883)
-63. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/40b76bf4c21e06c6d500f1f6ad1ca973f6fd64fa)
-64. 🗑️ Deleted a branch `CR-4--activity-log` in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-65. 🗑️ Deleted a branch `TzuChiaWang-patch-1` in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-66. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/bbc6874dd8efc088e830c479c99e807c458b1c59)
-67. 🔀 Merged [PR #5](https://github.com/TzuChiaWang/devops202409/pull/5) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-68. 📥 Opened [PR #5](https://github.com/TzuChiaWang/devops202409/pull/5) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-69. ➕ Created a new branch [`TzuChiaWang-patch-1`](https://github.com/TzuChiaWang/devops202409/tree/TzuChiaWang-patch-1) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-70. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/b8f3e3831dbb10dc340ef9f23a0309bcffce594f)
-71. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/73ec11aaa17b897e03de36e9fb5cdd6d64e1e9d0)
-72. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/39570a5d0c66d2a5eff140b8ee3369beddcba177)
-73. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-74. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/9275c1bc314c973a19a095333bb91a26c0098d80)
-75. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/474aedc14128dfd2ab36f78a3829340788833b60)
-76. 🗑️ Deleted a branch `RM-3-As-a-boyfriend-I-need-to-be-considerate-to-survive` in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-77. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/55a263cc305e43b07967fd30eb3834d5e99eb703)
-78. 🔀 Merged [PR #4](https://github.com/TzuChiaWang/devops202409/pull/4) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-79. 📥 Opened [PR #4](https://github.com/TzuChiaWang/devops202409/pull/4) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-80. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/fb2148951f533ebf24412e9f026843e583676708)
-81. 📝 Committed to [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409/commit/55a263cc305e43b07967fd30eb3834d5e99eb703)
-82. ❌ Closed an issue [#3](https://github.com/TzuChiaWang/devops202409/issues/3) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-83. ❌ Closed an issue [#2](https://github.com/TzuChiaWang/devops202409/issues/2) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-84. ❌ Closed an issue [#1](https://github.com/TzuChiaWang/devops202409/issues/1) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-85. 🗑️ Deleted a branch `TES-2-create-a-branch` in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-86. 🗑️ Deleted a branch `1-練習拓元售票系統介面` in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-87. ➕ Created a new branch [`1-練習拓元售票系統介面`](https://github.com/TzuChiaWang/devops202409/tree/1-練習拓元售票系統介面) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-88. 🗣 Commented on issue [#1](https://github.com/TzuChiaWang/devops202409/issues/1) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409): [View Comment](https://github.com/TzuChiaWang/devops202409/issues/1#issuecomment-2378370921)
-89. 🆕 Opened an issue [#3](https://github.com/TzuChiaWang/devops202409/issues/3) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-90. 🆕 Opened an issue [#2](https://github.com/TzuChiaWang/devops202409/issues/2) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-91. 🆕 Opened an issue [#1](https://github.com/TzuChiaWang/devops202409/issues/1) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-92. 🗑️ Deleted a branch `KAN-1` in [ntust-im-iov/Test-v1](https://github.com/ntust-im-iov/Test-v1)
-93. ➕ Created a new branch [`KAN-1`](https://github.com/ntust-im-iov/Test-v1/tree/KAN-1) in [ntust-im-iov/Test-v1](https://github.com/ntust-im-iov/Test-v1)
-94. ➕ Created a new branch `main` in a private repo
-95. 🎉 Created a new private repository
-96. 🎉 Created a new repository [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-97. ➕ Created a new branch [`main`](https://github.com/TzuChiaWang/devops202409/tree/main) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
-98. ➕ Created a new branch `main` in a private repo
-99. 🎉 Created a new private repository
-100. 📝 Committed to a private repo
+51. ➕ Created a new branch `main` in a private repo
+52. 🎉 Created a new private repository
+53. 📝 Committed to a private repo
+54. 📝 Committed to a private repo
+55. ➕ Created a new branch `main` in a private repo
+56. 🎉 Created a new private repository
+57. 🗣 Commented on issue [#9](https://github.com/TzuChiaWang/devops1025/issues/9) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/9#issuecomment-2437812278)
+58. 🗣 Commented on issue [#2](https://github.com/TzuChiaWang/devops1025/issues/2) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/2#issuecomment-2437809803)
+59. 🆕 Opened an issue [#9](https://github.com/TzuChiaWang/devops1025/issues/9) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+60. ❌ Closed an issue [#7](https://github.com/TzuChiaWang/devops1025/issues/7) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+61. 🗣 Commented on issue [#7](https://github.com/TzuChiaWang/devops1025/issues/7) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/7#issuecomment-2437698965)
+62. 🗑️ Deleted a branch `2-nuqtt` in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+63. 🗣 Commented on issue [#7](https://github.com/TzuChiaWang/devops1025/issues/7) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/7#issuecomment-2437319439)
+64. 🆕 Opened an issue [#7](https://github.com/TzuChiaWang/devops1025/issues/7) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+65. 🗑️ Deleted a branch `1-rjw` in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+66. ❌ Closed [PR #6](https://github.com/TzuChiaWang/devops1025/pull/6) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+67. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/a24d689d3ec10165b7fc8614069570abc745d32a)
+68. ❌ Closed an issue [#2](https://github.com/TzuChiaWang/devops1025/issues/2) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+69. 🔀 Merged [PR #5](https://github.com/TzuChiaWang/devops1025/pull/5) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+70. 📥 Opened [PR #5](https://github.com/TzuChiaWang/devops1025/pull/5) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+71. 📝 Committed to [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025/commit/7766bd3e9e937f9bfc4040ff302c4c14e1f21c29)
+72. 🔀 Merged [PR #4](https://github.com/TzuChiaWang/devops1025/pull/4) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+73. 🗣 Commented on issue [#2](https://github.com/TzuChiaWang/devops1025/issues/2) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/2#issuecomment-2437252918)
+74. 🆕 Opened an issue [#2](https://github.com/TzuChiaWang/devops1025/issues/2) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+75. 🗣 Commented on issue [#1](https://github.com/TzuChiaWang/devops1025/issues/1) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/1#issuecomment-2437232199)
+76. undefined
+77. 🗣 Commented on issue [#1](https://github.com/TzuChiaWang/devops1025/issues/1) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025): [View Comment](https://github.com/TzuChiaWang/devops1025/issues/1#issuecomment-2437230353)
+78. undefined
+79. 🆕 Opened an issue [#1](https://github.com/TzuChiaWang/devops1025/issues/1) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+80. 🆕 Opened an issue [#7](https://github.com/TzuChiaWang/devops202409/issues/7) in [TzuChiaWang/devops202409](https://github.com/TzuChiaWang/devops202409)
+81. 🎉 Created a new repository [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+82. ➕ Created a new branch [`main`](https://github.com/TzuChiaWang/devops1025/tree/main) in [TzuChiaWang/devops1025](https://github.com/TzuChiaWang/devops1025)
+83. 📝 Committed to a private repo
+84. ➕ Created a new branch `main` in a private repo
+85. 🎉 Created a new private repository
+86. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/59f798b5af63a50a2b3b95c7153d6c09b9db1020)
+87. 🗑️ Deleted a branch `CR-16--test-activity-log-` in [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log)
+88. 🔀 Merged [PR #1](https://github.com/TzuChiaWang/activity-log/pull/1) in [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log)
+89. 📥 Opened [PR #1](https://github.com/TzuChiaWang/activity-log/pull/1) in [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log)
+90. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/39d0db643987723f5473ca706a93c960b371b4f1)
+91. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/c4badf8dfbd6f74ada74c0821819e493eadee37c)
+92. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/8a4e173550e385109c1535bd5386b093612afa2f)
+93. 📝 Committed to [TzuChiaWang/activity-log](https://github.com/TzuChiaWang/activity-log/commit/9149baebd4bd4f9858fde209ef5a138be0e0109c)
+94. 📝 Committed to a private repo
+95. 📝 Committed to a private repo
+96. 📝 Committed to a private repo
+97. 📝 Committed to a private repo
+98. 📝 Committed to a private repo
+99. 📝 Committed to a private repo
+100. 📝 Committed to [ntust-im-iov/ChargeGamification](https://github.com/ntust-im-iov/ChargeGamification/commit/c4646672aa6bfd19a3c06d3a7c149984a10c6a7d)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
